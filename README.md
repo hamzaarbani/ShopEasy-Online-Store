@@ -54,8 +54,3 @@ ShopEasy/
 
 ---
 
-## ⚙️ Installation Guide
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/ShopEasy.git
