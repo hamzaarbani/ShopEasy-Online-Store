@@ -52,5 +52,13 @@ ShopEasy/
 └── shop_easy.sql # SQL dump for MySQL setup
 
 
----
+🙌 Acknowledgements
+This project was built as part of a web development course and showcases key concepts in full-stack e-commerce site building.
+
+📬 Contact
+👨‍💻 Developer: Hamza
+
+📧 Email: hamzaarbani80@gmail.com
+
+🌐 GitHub: github.com/hamzaarbani
 
